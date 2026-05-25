@@ -1,0 +1,131 @@
+aid: chipper-cash
+name: Chipper Cash
+description: >-
+  Chipper Cash is a pan-African fintech (legal entities Critical Ideas, Inc.
+  and Voyse Technologies US, Inc.) operating a mobile-first cross-border money
+  transfer, digital payments, crypto, and investing platform across Africa and
+  the diaspora. Founded in 2018 by Ham Serunjogi (Uganda) and Maijid Moujaled
+  (Ghana) after they met at Grinnell College in Iowa, Chipper became one of
+  Africa's fintech unicorns in 2021 and has raised over $340M to date. The
+  consumer app — available on iOS, Android, and web — supports peer-to-peer
+  and cross-border transfers across 21+ African countries, virtual Visa cards
+  (Chipper Card), bill pay and airtime top-ups, fractional US-stock investing
+  (Chipper Stocks, 6,000+ public companies, from $1), and historically crypto
+  trading (BTC/ETH). Reported scale includes 5M+ registered users, 1M+ Visa
+  cards issued, and 250,000+ daily transactions. Direct consumer markets
+  include Nigeria, Ghana, Uganda, Tanzania, South Africa, Rwanda, the UK,
+  and the US. On the developer side, Chipper exposes the Chipper Network API
+  ("Pay With Chipper") — a merchant-facing API that lets authorized
+  businesses accept cross-border payments across 9 currencies, initiate
+  payouts, issue refunds, and look up Chipper user accounts, authenticated
+  with a Chipper User ID + Network API Key. Documentation is published as a
+  Postman collection and access is gated by merchant onboarding; no public
+  OpenAPI or open-source SDK is currently published. Adjacent products
+  include Chipper ID (AI-led identity verification), Chipper Enterprise
+  (bulk payments and collections), Business Accounts, and Zoona (agent-network
+  remittances), plus an integration with TBD's tbDEX protocol for
+  decentralized cross-border payments.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fintech
+  - Africa
+  - Cross Border Payments
+  - Money Transfer
+  - Remittances
+  - Mobile Money
+  - Digital Wallet
+  - Virtual Cards
+  - Bill Pay
+  - Airtime
+  - Crypto
+  - Investing
+  - Fractional Shares
+  - Identity Verification
+  - Merchant Payments
+  - Payouts
+  - Network API
+  - Pay With Chipper
+  - tbDEX
+  - Unicorn
+  - Nigeria
+  - Ghana
+  - Uganda
+  - Tanzania
+  - South Africa
+  - Rwanda
+  - United Kingdom
+  - United States
+url: https://raw.githubusercontent.com/api-evangelist/chipper-cash/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.chippercash.com
+  - type: API
+    url: https://www.chippercash.com/api
+  - type: Documentation
+    url: https://support.chippercash.com/en/collections/3354823-network-api
+  - type: Postman
+    url: https://documenter.getpostman.com/view/18693070/UVz1Psag
+  - type: Sandbox
+    url: https://bit.ly/StartChipperNetworkSandbox
+  - type: HelpCenter
+    url: https://support.chippercash.com/
+  - type: NetworkAPIFAQ
+    url: https://support.chippercash.com/en/articles/6019594-what-is-the-chipper-cash-network-api-faqs
+  - type: ConnectedMerchants
+    url: https://support.chippercash.com/en/articles/6003704-how-does-the-network-api-connected-merchants-feature-work
+  - type: Business
+    url: https://www.chippercash.com/business
+  - type: ChipperCard
+    url: https://www.chippercash.com/products/chipper-card
+  - type: ChipperStocks
+    url: https://www.chippercash.com/products/chipper-stocks
+  - type: ChipperID
+    url: https://www.chippercash.com/business/chipper-id
+  - type: Zoona
+    url: https://www.chippercash.com/business/zoona
+  - type: Enterprise
+    url: https://www.chippercash.com/business/enterprise
+  - type: BillPay
+    url: https://www.chippercash.com/products/bill-pay
+  - type: SendAndReceive
+    url: https://www.chippercash.com/products/send-and-receive
+  - type: Leadership
+    url: https://www.chippercash.com/chipper-leadership
+  - type: News
+    url: https://www.chippercash.com/news
+  - type: Blog
+    url: https://www.chippercash.com/blog
+  - type: Careers
+    url: https://www.chippercash.com/careers
+  - type: AppStore
+    url: https://apps.apple.com/app/chipper-cash/id1450832711
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=com.chippercash
+  - type: GitHub
+    url: https://github.com/ChipperCash
+  - type: Twitter
+    url: https://twitter.com/chippercashapp
+  - type: Instagram
+    url: https://www.instagram.com/chippercashapp
+  - type: Facebook
+    url: https://www.facebook.com/chippercashapp
+  - type: YouTube
+    url: https://www.youtube.com/@chippercashapp
+  - type: TikTok
+    url: https://www.tiktok.com/@chippercashapp
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/chippercash
+  - type: Support
+    url: https://support.chippercash.com/
+  - type: DeveloperEmail
+    url: mailto:dev@chippercash.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
