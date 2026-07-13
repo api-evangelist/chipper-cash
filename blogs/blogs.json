@@ -2,19 +2,14 @@
   "repo": "chipper-cash",
   "feeds": [
     {
-      "source": "https://www.chippercash.com/blog",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.chippercash.com/news",
-      "feed_url": "",
+      "feed_url": "https://www.chippercash.com/news",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-27T12:31:48Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
